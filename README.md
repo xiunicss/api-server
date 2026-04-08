@@ -3,7 +3,7 @@
 - 개발환경: Node.js
 - 서버 설치 명령어: npm init -y ->package.json
 
-### Expredd 프레임워크 설치
+### Express 프레임워크 설치
 - 설치: npm install express
 - import 사용 - ES6 문법
 - package.json 에서 변경(import)
